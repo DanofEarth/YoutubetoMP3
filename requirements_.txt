@@ -1,0 +1,5 @@
+pydub
+pygame
+numpy
+matplotlib
+tkinter
